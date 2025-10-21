@@ -4,7 +4,7 @@ import os
 
 # Informações do Servidor FTP.
 FTP_HOST = "192.168.15.8"
-FTP_PORT = 21
+FTP_PORT = 2121
 FTP_USER = "squareroom_tech"
 FTP_PASSWD = "ILoveYouFTP"
 
